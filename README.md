@@ -53,7 +53,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/eslam-mongy-57795b187/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/eslam.elsaidy.96"><img src="https://img.icons8.com/fluency/344/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/eslam.elsaidy.96"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/eslammongy11/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
