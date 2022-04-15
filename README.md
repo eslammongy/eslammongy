@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+   <!--<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142181776-e09cfa48-5f9a-448e-a2f6-ff6a69908c41.png"/></a>
     <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142182830-58ebe508-12bb-4ecc-8bf5-c91efefde928.png"/> </a> 
     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a> 
