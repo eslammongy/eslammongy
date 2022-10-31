@@ -22,9 +22,9 @@
 
 <p align="left"> 
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142181776-e09cfa48-5f9a-448e-a2f6-ff6a69908c41.png"/></a>
+      <a href="https://developer.android.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/198988981-3c771f32-cc89-46c7-a92b-f328284a2c92.png"/> </a>
     <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142182830-58ebe508-12bb-4ecc-8bf5-c91efefde928.png"/> </a> 
- 
-   <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142183820-b924996a-3cc6-470b-94f5-3406a7a548e6.png"/> </a> 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/47952686/142183820-b924996a-3cc6-470b-94f5-3406a7a548e6.png"/> </a> 
      <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluency/48/4a90e2/android-studio--v3.png"/> </a> 
    <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/visual-studio.png"/> </a> 
     <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/mysql-logo.png"/> </a> 
