@@ -33,15 +33,22 @@
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/eslammongy/github-readme-stats"><img alt="Eslam Mongy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&count_private=false&theme=react&hide_border=false&bg_color=0D1117" /></a>
-  <a href="https://github.com/eslammongy/github-readme-stats"><img alt="Eslam Mongy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammongy&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslammongy&theme=monokai	)
 
 
+<a href="https://github.com/natainditama/natainditama">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&line_height=27&count_private=true&theme=monokai" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/natainditama/natainditama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammongy&langs_count=6&theme=monokai" alt="Top languanges" />
+</a>
 <br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <br/>
 
 <a href="https://github.com/eslammongy/github-readme-activity-graph"><img alt="Eslam Mongy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eslammongy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
