@@ -1,5 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/47952686/142178633-8a63e903-fe53-42b6-8680-43cc72ec819f.gif" height="80px"/></a>
+<div align="center">
+<a href="#" align="center"><img align="center" width="70%" height="auto" src="https://user-images.githubusercontent.com/47952686/142178633-8a63e903-fe53-42b6-8680-43cc72ec819f.gif" /></a>
 
+</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eslam Mongy</h1>
 <h3 align="center">I'm a Mobile Applications Developer from Egypt.</h3>
 
