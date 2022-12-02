@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/eslammongy)**
-
 - 📫 How to reach me **eslammongy995@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
