@@ -41,19 +41,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslammongy&theme=monokai	)
 
 
-<a href="https://github.com/natainditama/natainditama">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&line_height=27&count_private=true&theme=monokai" alt="GitHub Stats" />
+<div width="100%" align='left'>
+<a href="https://github.com/natainditama/natainditama"  width="100%">
+  <img  width="60%" align="top" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&line_height=27&count_private=true&theme=monokai" alt="GitHub Stats" />
 </a>
+</div>
 
-<a href="https://github.com/natainditama/natainditama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammongy&langs_count=6&theme=monokai" alt="Top languanges" />
-</a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 
-<a href="https://github.com/eslammongy/github-readme-activity-graph"><img alt="Eslam Mongy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eslammongy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
