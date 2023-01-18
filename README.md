@@ -3,7 +3,7 @@
 
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eslam Mongy</h1>
-<p align="left">I am a mobile app developer with more than 1 year of part-time and freelancingwork experience. I mainly work in Dart with the flutter framework. I also havesome applied Kotlin experience mainly from developing android native apps andsupporting android teams. I helped a team to create android native applicationsand create mobile apps using flutter. I'm always looking for a way to learn moreskills in developing mobile applications and expand my knowledge base. I'm alwaysproud of being a team player and always work with my passion for what I build.</p>
+<p align="left">I am a junior Flutter developer with intermediate experience in developing native Android applications.passionate about delivering engaging and visually compelling applications with user-friendly interactions.I have more than 1 year of part-time and freelancing work experience.Currently, I mainly work in Dart with the flutter framework.I also have intermediate experience in android native, mainly in developing android apps and supporting android teams.I helped a team to create android native applications and create mobile apps using flutter.I'm always looking for a way to learn more skills in developing mobile applications and expand my knowledge base.I'm always proud of being a team player and always work with my passion for what I build.</p>
 
 ## 🙋‍♂️ About Me
 
