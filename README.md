@@ -32,6 +32,11 @@
   
 </p>
 
+## 📊 My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslammongy&theme=monokai	)
+
 <div width="100%" align='left'>
 <a href="https://github.com/natainditama/natainditama"  width="100%">
   <img  width="60%" align="top" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&line_height=27&count_private=true&theme=monokai" alt="GitHub Stats" />
