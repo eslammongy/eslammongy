@@ -3,7 +3,11 @@
 
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eslam Mongy</h1>
-<p align="left">I am a passionate android/ flutter developer dedicated to creating attractive mobile apps design.For 1 year as a junior mobile developer, I assisted our mobile developer team with designing and creating android native apps and cross-platform mobile apps with flutter.Keeping in mind to provide the best possible offer for audiences.This experience kindled my passion for designing and building mobile apps and taught me to always keep user experience and interaction in mind.To gain more coding experience, I completed Udacity's Advanced Android Kotlin Development Nanodegree, which has taught me, android development skills and kotlin.Also, completed Flutter and Dart courses on the Udemy platform which has taught me, flutter development skills, and dart to develop my own applications.I'm curious about new technologies and excited to find ways to implement them in work.I have a big appetite to learn and improve your mobile development skills.</p>
+<p align="left">As a Flutter mobile developer, I have experience in creating high-quality, user-friendly mobile applications. With a technical skill
+set and a deep understanding of the Flutter framework. And I have good experience in Android native development with kotlin. I
+am capable of delivering robust and scalable solutions that meet client expectations. Overall, I have the ability to deliver
+exceptional mobile applications, collaborate effectively with teams, and adapt to evolving project requirements. I am excited to
+contribute my expertise to a dynamic organization and play an integral role in creating cutting-edge mobile solutions.</p>
 
 ## 🙋‍♂️ About Me
 
