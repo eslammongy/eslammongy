@@ -43,6 +43,18 @@ contribute my expertise to a dynamic organization and play an integral role in c
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
   </picture>  
 </div> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true" />
+</picture>
+
 <div align="left" width="80%">
   <picture  width="80%">
     <source srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai" media="(prefers-color-scheme: dark)" />
