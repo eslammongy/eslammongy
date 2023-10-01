@@ -37,8 +37,12 @@ contribute my expertise to a dynamic organization and play an integral role in c
 </p>
 
 ## 📊 My Github Stats
+<div align="left" width="80%">
+  <picture  width="80%">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammongy&theme=monokai	)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
+  </picture>  
+</div> 
 <div align="left" width="80%">
   <picture  width="80%">
     <source srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai" media="(prefers-color-scheme: dark)" />
