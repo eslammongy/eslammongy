@@ -37,18 +37,9 @@ contribute my expertise to a dynamic organization and play an integral role in c
 </p>
 
 ## 📊 My Github Stats
-<div align="left" width="80%">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-</div> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslammongy&theme=monokai	)
 
 <div align="left" width="80%">
   <picture  width="80%">
