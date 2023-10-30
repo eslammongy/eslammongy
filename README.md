@@ -45,7 +45,7 @@ contribute my expertise to a dynamic organization and play an integral role in c
   <picture  width="80%">
     <source srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=monokai" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img  width="68%" src="https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true" />
+  
   </picture>  
 </div> 
 
