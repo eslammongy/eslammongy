@@ -37,6 +37,7 @@ contribute my expertise to a dynamic organization and play an integral role in c
 </p>
 
 ## 📊 My Github Stats
+![](https://github-readme-stats.vercel.app/api?username=eslammongy&show_icons=true&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammongy&theme=monokai	)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslammongy&theme=monokai	)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslammongy&theme=monokai	)
